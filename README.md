@@ -18,4 +18,4 @@ e.g.
 
 ### Original Snippet
 
-// https://stackoverflow.com/a/12135780/356386
+https://stackoverflow.com/a/12135780/356386
